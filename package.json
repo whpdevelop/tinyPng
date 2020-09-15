@@ -1,0 +1,12 @@
+{
+  "name": "tinyPng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "script":{
+    "start":"node index.js"
+  }
+  "devDependencies": {
+    "tinify": "^1.6.0-beta.2"
+  }
+}
